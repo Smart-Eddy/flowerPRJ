@@ -1,5 +1,7 @@
 <h4>오늘의꽃 (쇼핑몰) 팀장</h4>
-<img src="https://user-images.githubusercontent.com/112805025/226258329-41eb973e-5d8c-46b2-a1ef-21bdf45c015a.png" width="550">
+
+<img src="https://user-images.githubusercontent.com/112805025/226258329-41eb973e-5d8c-46b2-a1ef-21bdf45c015a.png" width="450">
+ 
 <h4>기술스택</h4>
 <p align="left">
 <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat">
