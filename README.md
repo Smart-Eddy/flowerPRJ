@@ -1,5 +1,5 @@
 <h1>오늘의꽃 쇼핑몰 팀 프로젝트</h1>
-<h4>[Notion Link]:https://paper-finch-910.notion.site/MY-DEV-SPACE-60956c8b0dbc448ea49d553b7994062a </h4>
+
 <img src="https://user-images.githubusercontent.com/112805025/226258329-41eb973e-5d8c-46b2-a1ef-21bdf45c015a.png">
 <h3>주요 개발환경<h3>
   <pre>java 8, Oracle11g, JSP, Mybatis, jQuery, Tiles, bootstrap</pre>
